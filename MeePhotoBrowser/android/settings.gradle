@@ -1,0 +1,3 @@
+rootProject.name = 'MeePhotoBrowser'
+
+include ':app'
